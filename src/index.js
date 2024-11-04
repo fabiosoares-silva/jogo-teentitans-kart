@@ -8,41 +8,41 @@ const jogador1 = {
 
 const jogador2 = {
     nome: 'Robin',
-    velocidade: 4,
-    manobrabilidade: 3,
-    poder: 3,
+    velocidade: 3,
+    manobrabilidade: 4,
+    poder: 2,
     pontos: 0
 };
 
 const jogador3 = {
     nome: 'Mutano',
-    velocidade: 4,
-    manobrabilidade: 3,
+    velocidade: 2,
+    manobrabilidade: 4,
     poder: 3,
     pontos: 0
 };
 
 const jogador4 = {
     nome: 'Estelar',
-    velocidade: 4,
-    manobrabilidade: 3,
-    poder: 3,
+    velocidade: 5,
+    manobrabilidade: 2,
+    poder: 5,
     pontos: 0
 };
 
 const jogador5 = {
     nome: 'Ciborgue',
-    velocidade: 4,
-    manobrabilidade: 3,
-    poder: 3,
+    velocidade: 3,
+    manobrabilidade: 4,
+    poder: 4,
     pontos: 0
 };
 
 const jogador6 = {
     nome: 'Silkie',
-    velocidade: 4,
-    manobrabilidade: 3,
-    poder: 3,
+    velocidade: 2,
+    manobrabilidade: 2,
+    poder: 5,
     pontos: 0
 };
 
